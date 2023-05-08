@@ -12,6 +12,6 @@ int main()
 {
 printf("enter:");
 yylex();
-printf("number of comment lines %d\n",c);
+printf("number of command lines %d\n",c);
 return 0;
 } 
